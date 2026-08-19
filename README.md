@@ -1,56 +1,37 @@
-<!-- ============================================================
-     AKUDA — GitHub Profile README
-     Replace YOUR_GITHUB_USERNAME with your actual GitHub handle.
-     Editable sections are marked with <!-- EDIT --> comments.
-============================================================ -->
-
 <div align="center">
 
-<!-- ── HERO ─────────────────────────────────────────────── -->
+**Full-Stack Developer & Game Developer** — Tehran, Iran <img src="https://flagcdn.com/ir.svg" width="20" alt="Iran" />
 
-# Samyar · **AKUDA**
-
-**Full-Stack Developer & Game Developer** — Tehran, Iran 🇮🇷
-
-<!-- Animated typing banner (reliable service, renders on GitHub) -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Backend+Engineering+%26+Scalable+APIs;Minecraft+%26+FiveM+Development;Automation%2C+Bots+%26+Anti-Cheat+Systems;Polished+Products.+Clean+Code.+No+Noise." alt="Typing banner" />
 
-<!-- Profile view counter — replace username -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7C3AED&label=views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=7C3AED&label=views" alt="Profile views" />
 
 </div>
 
 <br/>
 
-<!-- ── ABOUT ────────────────────────────────────────────── -->
-
-## ⚡ About Me
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/Color/high_voltage_color.svg" width="24" alt="" /> About Me
 
 I build systems that stay fast under pressure — from high-traffic Minecraft networks
 to production web platforms and automation pipelines.
 
-- 🧩 Writing web software since **2021**, Python since **2019**
-- 🎮 Deep in **Minecraft plugin** (Paper / Folia / Velocity) and **FiveM** development
-- 🛡️ Focused on **anti-cheat, moderation, and performance-critical backends**
-- 🏗️ I care about the boring parts: architecture, configs, deployment, maintainability
-- 🎨 Minimal, luxury-grade UI — products should feel as good as they run
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Puzzle%20piece/Color/puzzle_piece_color.svg" width="17" alt="" /> Writing web software since **2021**, Python since **2019**
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/Color/video_game_color.svg" width="17" alt="" /> Deep in **Minecraft plugin** (Paper / Folia / Velocity) and **FiveM** development
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/Color/shield_color.svg" width="17" alt="" /> Focused on **anti-cheat, moderation, and performance-critical backends**
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Building%20construction/Color/building_construction_color.svg" width="17" alt="" /> I care about the boring parts: architecture, configs, deployment, maintainability
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/Color/artist_palette_color.svg" width="17" alt="" /> Minimal, luxury-grade UI — products should feel as good as they run
 
 <br/>
 
-<!-- ── CURRENT FOCUS ────────────────────────────────────── -->
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Telescope/Color/telescope_color.svg" width="24" alt="" /> Current Focus
 
-## 🔭 Current Focus
-
-<!-- EDIT: update these lines whenever your focus changes -->
-- 🚧 Building **WildBot Lab** — bot & automation tooling for game servers <!-- EDIT: short description -->
-- 🧪 Expanding **WildAntiBot / WildModeration** — server protection at scale <!-- EDIT -->
-- 📚 Learning: **German (A2)** and deeper **Folia / multithreaded server internals** <!-- EDIT -->
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/Color/books_color.svg" width="17" alt="" /> Learning: **C++ / C#** and deeper **Folia / multithreaded server internals**
 
 <br/>
 
 <!-- ── TECH STACK ───────────────────────────────────────── -->
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/Color/hammer_and_wrench_color.svg" width="24" alt="" /> Tech Stack
 
 **Languages**
 
@@ -92,64 +73,20 @@ to production web platforms and automation pipelines.
 
 <br/>
 
-<!-- ── FEATURED PROJECTS ────────────────────────────────── -->
-
-## 🚀 Featured Projects
-
-<!-- EDIT: replace # with real repository URLs and refine descriptions -->
-
-### 🎮 Minecraft
-
-| Project | Description |
-|---|---|
-| [**WildAntiBot**](#) | Bot-attack protection for high-traffic networks <!-- EDIT: repo URL & description --> |
-| [**WildCrates**](#) | Performant, config-heavy crate system <!-- EDIT --> |
-| [**AdvancedMotd**](#) | Dynamic MOTD engine with MiniMessage support <!-- EDIT --> |
-| [**WildLobby**](#) | Lightweight lobby core for Velocity networks <!-- EDIT --> |
-
-### 🌐 Web
-
-| Project | Description |
-|---|---|
-| [**Trade.sk**](#) | Trading platform — React, Express, PostgreSQL <!-- EDIT --> |
-| [**PetroMall**](#) | B2B commerce platform with payment integration <!-- EDIT --> |
-
-### 🤖 Bots & Automation
-
-| Project | Description |
-|---|---|
-| [**WildBot Lab**](#) | Bot framework & automation lab (Mineflayer) <!-- EDIT --> |
-| [**AkudaFB**](#) | Automation / integration tooling <!-- EDIT --> |
-
-### 🧰 Tools & Infrastructure
-
-| Project | Description |
-|---|---|
-| [**WildTools**](#) | Developer utility suite for server owners <!-- EDIT --> |
-| [**WildModeration**](#) | Moderation & staff tooling <!-- EDIT --> |
-
-<br/>
-
-<!-- ── GITHUB STATS ─────────────────────────────────────── -->
-
-## 📊 GitHub Statistics
-
-<!-- Replace YOUR_GITHUB_USERNAME in all three cards -->
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/Color/bar_chart_color.svg" width="24" alt="" /> GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=main-sonny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-sonny&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=main-sonny&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="Contribution streak" />
 
 </div>
 
 <br/>
 
-<!-- ── PHILOSOPHY ───────────────────────────────────────── -->
-
-## 🧠 Development Philosophy
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/Color/brain_color.svg" width="24" alt="" /> Development Philosophy
 
 > **Ship less, polish more.**
 
@@ -160,20 +97,16 @@ to production web platforms and automation pipelines.
 
 <br/>
 
-<!-- ── FOOTER ───────────────────────────────────────────── -->
-
 ---
 
 <div align="center">
 
 **"Quiet code, loud results."**
 
-<!-- EDIT: contact links — replace # with your real URLs -->
 <a href="#"><img src="https://img.shields.io/badge/Discord-0D1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
-<sub>© AKUDA — built with intent, not templates.</sub>
+<sub>© Sonny</sub>
 
 </div>
-`
