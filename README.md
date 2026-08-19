@@ -12,7 +12,7 @@
 
 <br/>
 
-## <img src="" width="24" alt="" align="top" /> About
+## <img src="https://cdn.imgurl.ir/uploads/f0605_about.png" width="24" alt="" align="top" /> About
 
 I build systems that stay fast under pressure — high-traffic Minecraft networks,
 production web platforms, and automation pipelines.
@@ -20,21 +20,21 @@ production web platforms, and automation pipelines.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="" width="16" alt="" align="top" /> &nbsp;Web developer since <b>2021</b>, Python since <b>2019</b><br/><br/>
-      <img src="" width="16" alt="" align="top" /> &nbsp;Deep in <b>Minecraft plugin</b> &amp; <b>FiveM</b> developments and ofcourse <b>Web</b> developments<br/><br/>
-      <img src="" width="16" alt="" align="top" /> &nbsp;<b>Anti-cheat, moderation,</b> performance-critical backends
+      <img src="" width="16" alt="https://cdn.imgurl.ir/uploads/g536958_bulllet.png" align="top" /> &nbsp;Web developer since <b>2021</b>, Python since <b>2019</b><br/><br/>
+      <img src="" width="16" alt="https://cdn.imgurl.ir/uploads/g536958_bulllet.png" align="top" /> &nbsp;Deep in <b>Minecraft plugin</b> &amp; <b>FiveM</b> developments and ofcourse <b>Web</b> developments<br/><br/>
+      <img src="" width="16" alt="https://cdn.imgurl.ir/uploads/g536958_bulllet.png" align="top" /> &nbsp;<b>Anti-cheat, moderation,</b> performance-critical backends
     </td>
     <td width="50%" valign="top">
-      <img src="" width="16" alt="" align="top" /> &nbsp;I care about the boring parts, architecture, configs, deployment<br/><br/>
-      <img src="" width="16" alt="" align="top" /> &nbsp;Minimal, <b>UI/UX</b> products should feel as good as they run<br/><br/>
-      <img src="" width="16" alt="" align="top" /> &nbsp;Currently learning <b>C++ / C#</b> and Folia internals
+      <img src="" width="16" alt="https://cdn.imgurl.ir/uploads/g536958_bulllet.png" align="top" /> &nbsp;I care about the boring parts, architecture, configs, deployment<br/><br/>
+      <img src="" width="16" alt="https://cdn.imgurl.ir/uploads/g536958_bulllet.png" align="top" /> &nbsp;Minimal, <b>UI/UX</b> products should feel as good as they run<br/><br/>
+      <img src="" width="16" alt="https://cdn.imgurl.ir/uploads/g536958_bulllet.png" align="top" /> &nbsp;Currently learning <b>C++ / C#</b> and Folia internals
     </td>
   </tr>
 </table>
 
 <br/>
 
-## <img src="" width="24" alt="" align="top" /> Stack
+## <img src="https://cdn.imgurl.ir/uploads/j02325_stack.png" width="24" alt="" align="top" /> Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@ production web platforms, and automation pipelines.
 
 <br/>
 
-## <img src="" width="24" alt="" align="top" /> Statistics
+## <img src="https://cdn.imgurl.ir/uploads/c7240_stats.png" width="24" alt="" align="top" /> Statistics
 
 <div align="center">
 
@@ -78,7 +78,7 @@ production web platforms, and automation pipelines.
 
 <br/>
 
-## <img src="" width="24" alt="" align="top" /> Philosophy
+## <img src="https://cdn.imgurl.ir/uploads/x99981_philosophy.png" width="24" alt="" align="top" /> Philosophy
 
 > **Ship less, polish more.**
 
