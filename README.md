@@ -1,112 +1,106 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:4C1D95,100:7C3AED&text=SONNY&fontColor=E9D5FF&fontSize=64&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Game%20Systems%20%C2%B7%20Automation&descAlignY=56&descSize=18&animation=fadeIn" alt="" />
+
 <div align="center">
 
-**Full-Stack Developer & Game Developer** — Tehran, Iran <img src="https://flagcdn.com/ir.svg" width="20" alt="Iran" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Backend+engineering+%26+scalable+APIs;Minecraft+(Paper+%2F+Folia+%2F+Velocity)+%26+FiveM;Anti-cheat%2C+moderation%2C+performance-critical+systems;Quiet+code%2C+loud+results." alt="Typing banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Backend+Engineering+%26+Scalable+APIs;Minecraft+%26+FiveM+Development;Automation%2C+Bots+%26+Anti-Cheat+Systems;Polished+Products.+Clean+Code.+No+Noise." alt="Typing banner" />
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=7C3AED&label=views" alt="Profile views" />
+<img src="https://flagcdn.com/h20/ir.png" height="14" alt="Iran" /> &nbsp;**Tehran, Iran** &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=7C3AED&label=views" alt="Profile views" align="center" />
 
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/Color/high_voltage_color.svg" width="24" alt="" /> About Me
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/Color/high_voltage_color.svg" width="24" alt="" align="top" /> About
 
-I build systems that stay fast under pressure — from high-traffic Minecraft networks
-to production web platforms and automation pipelines.
+I build systems that stay fast under pressure — high-traffic Minecraft networks,
+production web platforms, and automation pipelines.
 
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Puzzle%20piece/Color/puzzle_piece_color.svg" width="17" alt="" /> Writing web software since **2021**, Python since **2019**
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/Color/video_game_color.svg" width="17" alt="" /> Deep in **Minecraft plugin** (Paper / Folia / Velocity) and **FiveM** development
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/Color/shield_color.svg" width="17" alt="" /> Focused on **anti-cheat, moderation, and performance-critical backends**
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Building%20construction/Color/building_construction_color.svg" width="17" alt="" /> I care about the boring parts: architecture, configs, deployment, maintainability
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/Color/artist_palette_color.svg" width="17" alt="" /> Minimal, luxury-grade UI — products should feel as good as they run
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Puzzle%20piece/Color/puzzle_piece_color.svg" width="16" alt="" align="top" /> &nbsp;Web software since <b>2021</b>, Python since <b>2019</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/Color/video_game_color.svg" width="16" alt="" align="top" /> &nbsp;Deep in <b>Minecraft plugin</b> &amp; <b>FiveM</b> development<br/><br/>
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/Color/shield_color.svg" width="16" alt="" align="top" /> &nbsp;<b>Anti-cheat, moderation,</b> performance-critical backends
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Building%20construction/Color/building_construction_color.svg" width="16" alt="" align="top" /> &nbsp;I care about the boring parts — architecture, configs, deployment<br/><br/>
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/Color/artist_palette_color.svg" width="16" alt="" align="top" /> &nbsp;Minimal, <b>luxury-grade UI</b> — products should feel as good as they run<br/><br/>
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/Color/books_color.svg" width="16" alt="" align="top" /> &nbsp;Currently learning <b>C++ / C#</b> and Folia internals
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Telescope/Color/telescope_color.svg" width="24" alt="" /> Current Focus
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/Color/hammer_and_wrench_color.svg" width="24" alt="" align="top" /> Stack
 
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/Color/books_color.svg" width="17" alt="" /> Learning: **C++ / C#** and deeper **Folia / multithreaded server internals**
-
-<br/>
-
-<!-- ── TECH STACK ───────────────────────────────────────── -->
-
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/Color/hammer_and_wrench_color.svg" width="24" alt="" /> Tech Stack
+<div align="center">
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E76F00" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A78BFA" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" alt="Languages" />
 
-**Backend & APIs**
+**Backend & Data**
 
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
-<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=A78BFA" alt="REST APIs" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,postgres,sqlite&theme=dark" alt="Backend" />
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Alpine.js-0D1117?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0" alt="Alpine.js" />
-<img src="https://img.shields.io/badge/TanStack-0D1117?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,alpinejs&theme=dark" alt="Frontend" />
 
-**Tools & Infrastructure**
+**Tools & Infra**
 
-<img src="https://img.shields.io/badge/JDK_21-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="JDK 21" />
-<img src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=C71A36" alt="Maven" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=A78BFA" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/Caddy-0D1117?style=for-the-badge&logo=caddy&logoColor=00ADD8" alt="Caddy" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/Color/bar_chart_color.svg" width="24" alt="" /> GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=main-sonny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-sonny&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=main-sonny&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="Contribution streak" />
+<img src="https://skillicons.dev/icons?i=maven,idea,git,linux,docker,nginx&theme=dark" alt="Tools" />
 
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/Color/brain_color.svg" width="24" alt="" /> Development Philosophy
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/Color/bar_chart_color.svg" width="24" alt="" align="top" /> Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=main-sonny&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-sonny&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=main-sonny&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&sideNums=E9D5FF&currStreakNum=E9D5FF&dates=6E7681" alt="Contribution streak" />
+
+<br/><br/>
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=main-sonny&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" />
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/Color/brain_color.svg" width="24" alt="" align="top" /> Philosophy
 
 > **Ship less, polish more.**
 
-- **Performance first** — every tick, every query, every render counts
-- **Modular by default** — config-driven systems that adapt without rewrites
-- **Clean over clever** — code the next person (or future me) can read
-- **UX is engineering** — a fast backend deserves an interface that feels premium
+| Principle | Meaning |
+|---|---|
+| **Performance first** | Every tick, every query, every render counts |
+| **Modular by default** | Config-driven systems that adapt without rewrites |
+| **Clean over clever** | Code the next person — or future me — can read |
+| **UX is engineering** | A fast backend deserves an interface that feels premium |
 
 <br/>
 
----
-
 <div align="center">
 
-**"Quiet code, loud results."**
+<a href="#"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>&nbsp;
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
-<a href="#"><img src="https://img.shields.io/badge/Discord-0D1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<br/>
 
-<sub>© Sonny</sub>
+<sub>*Quiet code, loud results.*</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,50:4C1D95,100:0D1117&section=footer" alt="" />
