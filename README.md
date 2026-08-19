@@ -1,49 +1,179 @@
+<!-- ============================================================
+     AKUDA — GitHub Profile README
+     Replace YOUR_GITHUB_USERNAME with your actual GitHub handle.
+     Editable sections are marked with <!-- EDIT --> comments.
+============================================================ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sonny;17-Year-Old+Software+Engineer;Crafting+Luxury+User+Interfaces;Building+High-Performance+Systems;Minecraft+Network+%26+Game+Developer" alt="Typing SVG" />
+
+<!-- ── HERO ─────────────────────────────────────────────── -->
+
+# Samyar · **AKUDA**
+
+**Full-Stack Developer & Game Developer** — Tehran, Iran 🇮🇷
+
+<!-- Animated typing banner (reliable service, renders on GitHub) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Backend+Engineering+%26+Scalable+APIs;Minecraft+%26+FiveM+Development;Automation%2C+Bots+%26+Anti-Cheat+Systems;Polished+Products.+Clean+Code.+No+Noise." alt="Typing banner" />
+
+<!-- Profile view counter — replace username -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7C3AED&label=views" alt="Profile views" />
+
 </div>
 
 <br/>
 
+<!-- ── ABOUT ────────────────────────────────────────────── -->
+
+## ⚡ About Me
+
+I build systems that stay fast under pressure — from high-traffic Minecraft networks
+to production web platforms and automation pipelines.
+
+- 🧩 Writing web software since **2021**, Python since **2019**
+- 🎮 Deep in **Minecraft plugin** (Paper / Folia / Velocity) and **FiveM** development
+- 🛡️ Focused on **anti-cheat, moderation, and performance-critical backends**
+- 🏗️ I care about the boring parts: architecture, configs, deployment, maintainability
+- 🎨 Minimal, luxury-grade UI — products should feel as good as they run
+
+<br/>
+
+<!-- ── CURRENT FOCUS ────────────────────────────────────── -->
+
+## 🔭 Current Focus
+
+<!-- EDIT: update these lines whenever your focus changes -->
+- 🚧 Building **WildBot Lab** — bot & automation tooling for game servers <!-- EDIT: short description -->
+- 🧪 Expanding **WildAntiBot / WildModeration** — server protection at scale <!-- EDIT -->
+- 📚 Learning: **German (A2)** and deeper **Folia / multithreaded server internals** <!-- EDIT -->
+
+<br/>
+
+<!-- ── TECH STACK ───────────────────────────────────────── -->
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E76F00" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A78BFA" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
+
+**Backend & APIs**
+
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=A78BFA" alt="REST APIs" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Alpine.js-0D1117?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0" alt="Alpine.js" />
+<img src="https://img.shields.io/badge/TanStack-0D1117?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack" />
+
+**Tools & Infrastructure**
+
+<img src="https://img.shields.io/badge/JDK_21-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="JDK 21" />
+<img src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=C71A36" alt="Maven" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=A78BFA" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/Caddy-0D1117?style=for-the-badge&logo=caddy&logoColor=00ADD8" alt="Caddy" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+
+<br/>
+
+<!-- ── FEATURED PROJECTS ────────────────────────────────── -->
+
+## 🚀 Featured Projects
+
+<!-- EDIT: replace # with real repository URLs and refine descriptions -->
+
+### 🎮 Minecraft
+
+| Project | Description |
+|---|---|
+| [**WildAntiBot**](#) | Bot-attack protection for high-traffic networks <!-- EDIT: repo URL & description --> |
+| [**WildCrates**](#) | Performant, config-heavy crate system <!-- EDIT --> |
+| [**AdvancedMotd**](#) | Dynamic MOTD engine with MiniMessage support <!-- EDIT --> |
+| [**WildLobby**](#) | Lightweight lobby core for Velocity networks <!-- EDIT --> |
+
+### 🌐 Web
+
+| Project | Description |
+|---|---|
+| [**Trade.sk**](#) | Trading platform — React, Express, PostgreSQL <!-- EDIT --> |
+| [**PetroMall**](#) | B2B commerce platform with payment integration <!-- EDIT --> |
+
+### 🤖 Bots & Automation
+
+| Project | Description |
+|---|---|
+| [**WildBot Lab**](#) | Bot framework & automation lab (Mineflayer) <!-- EDIT --> |
+| [**AkudaFB**](#) | Automation / integration tooling <!-- EDIT --> |
+
+### 🧰 Tools & Infrastructure
+
+| Project | Description |
+|---|---|
+| [**WildTools**](#) | Developer utility suite for server owners <!-- EDIT --> |
+| [**WildModeration**](#) | Moderation & staff tooling <!-- EDIT --> |
+
+<br/>
+
+<!-- ── GITHUB STATS ─────────────────────────────────────── -->
+
+## 📊 GitHub Statistics
+
+<!-- Replace YOUR_GITHUB_USERNAME in all three cards -->
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20%26%20Game%20Dev-09090B?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-B2B%20%26%20Optimization-09090B?style=for-the-badge&logo=rocket&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-Java%20|%20TS%20|%20Python-09090B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Stack" />
-  <img src="https://img.shields.io/badge/Location-Tehran,%20IR-09090B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</div>
 
-<br/><br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top languages" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,express,nodejs,python,java&perline=8&theme=dark" alt="Primary Stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,linux,idea,vscode&perline=8&theme=dark" alt="Tools & DBs" />
-</div>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="Contribution streak" />
 
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=ffffff&text_color=a1a1aa&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME/WildLobby">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=WildLobby&theme=transparent&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&hide_border=true" width="400" alt="WildLobby" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/WildTools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=WildTools&theme=transparent&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&hide_border=true" width="400" alt="WildTools" />
-  </a>
-</div>
+<!-- ── PHILOSOPHY ───────────────────────────────────────── -->
+
+## 🧠 Development Philosophy
+
+> **Ship less, polish more.**
+
+- **Performance first** — every tick, every query, every render counts
+- **Modular by default** — config-driven systems that adapt without rewrites
+- **Clean over clever** — code the next person (or future me) can read
+- **UX is engineering** — a fast backend deserves an interface that feels premium
 
 <br/>
 
+<!-- ── FOOTER ───────────────────────────────────────────── -->
+
+---
+
 <div align="center">
-  <!-- Requires GitHub Action for the Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+
+**"Quiet code, loud results."**
+
+<!-- EDIT: contact links — replace # with your real URLs -->
+<a href="#"><img src="https://img.shields.io/badge/Discord-0D1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+
+<sub>© AKUDA — built with intent, not templates.</sub>
+
 </div>
+`
