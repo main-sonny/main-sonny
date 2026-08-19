@@ -1,4 +1,3 @@
-<!-- ── HERO ─────────────────────────────────────────────── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:4C1D95,100:7C3AED&text=SONNY&fontColor=E9D5FF&fontSize=64&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Game%20Systems%20%C2%B7%20Automation&descAlignY=56&descSize=18&animation=fadeIn" alt="" />
 
 <div align="center">
@@ -13,7 +12,6 @@
 
 <br/>
 
-<!-- ── ABOUT ────────────────────────────────────────────── -->
 ## <img src="" width="24" alt="" align="top" /> About
 
 I build systems that stay fast under pressure — high-traffic Minecraft networks,
@@ -22,21 +20,20 @@ production web platforms, and automation pipelines.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Puzzle%20piece/Color/puzzle_piece_color.svg" width="16" alt="" align="top" /> &nbsp;Web software since <b>2021</b>, Python since <b>2019</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/Color/video_game_color.svg" width="16" alt="" align="top" /> &nbsp;Deep in <b>Minecraft plugin</b> &amp; <b>FiveM</b> development<br/><br/>
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/Color/shield_color.svg" width="16" alt="" align="top" /> &nbsp;<b>Anti-cheat, moderation,</b> performance-critical backends
+      <img src="" width="16" alt="" align="top" /> &nbsp;Web developer since <b>2021</b>, Python since <b>2019</b><br/><br/>
+      <img src="" width="16" alt="" align="top" /> &nbsp;Deep in <b>Minecraft plugin</b> &amp; <b>FiveM</b> developments and ofcourse <b>Web</b> developments<br/><br/>
+      <img src="" width="16" alt="" align="top" /> &nbsp;<b>Anti-cheat, moderation,</b> performance-critical backends
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Building%20construction/Color/building_construction_color.svg" width="16" alt="" align="top" /> &nbsp;I care about the boring parts — architecture, configs, deployment<br/><br/>
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/Color/artist_palette_color.svg" width="16" alt="" align="top" /> &nbsp;Minimal, <b>luxury-grade UI</b> — products should feel as good as they run<br/><br/>
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/Color/books_color.svg" width="16" alt="" align="top" /> &nbsp;Currently learning <b>C++ / C#</b> and Folia internals
+      <img src="" width="16" alt="" align="top" /> &nbsp;I care about the boring parts, architecture, configs, deployment<br/><br/>
+      <img src="" width="16" alt="" align="top" /> &nbsp;Minimal, <b>UI/UX</b> products should feel as good as they run<br/><br/>
+      <img src="" width="16" alt="" align="top" /> &nbsp;Currently learning <b>C++ / C#</b> and Folia internals
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ── STACK ────────────────────────────────────────────── -->
 ## <img src="" width="24" alt="" align="top" /> Stack
 
 <div align="center">
@@ -61,7 +58,6 @@ production web platforms, and automation pipelines.
 
 <br/>
 
-<!-- ── STATS ────────────────────────────────────────────── -->
 ## <img src="" width="24" alt="" align="top" /> Statistics
 
 <div align="center">
@@ -82,7 +78,6 @@ production web platforms, and automation pipelines.
 
 <br/>
 
-<!-- ── PHILOSOPHY ───────────────────────────────────────── -->
 ## <img src="" width="24" alt="" align="top" /> Philosophy
 
 > **Ship less, polish more.**
@@ -96,7 +91,6 @@ production web platforms, and automation pipelines.
 
 <br/>
 
-<!-- ── FOOTER ───────────────────────────────────────────── -->
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>&nbsp;
@@ -110,4 +104,3 @@ production web platforms, and automation pipelines.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,50:4C1D95,100:0D1117&section=footer" alt="" />
-`
