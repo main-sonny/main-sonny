@@ -1,3 +1,4 @@
+<!-- ── HERO ─────────────────────────────────────────────── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:4C1D95,100:7C3AED&text=SONNY&fontColor=E9D5FF&fontSize=64&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Game%20Systems%20%C2%B7%20Automation&descAlignY=56&descSize=18&animation=fadeIn" alt="" />
 
 <div align="center">
@@ -12,6 +13,7 @@
 
 <br/>
 
+<!-- ── ABOUT ────────────────────────────────────────────── -->
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/Color/high_voltage_color.svg" width="24" alt="" align="top" /> About
 
 I build systems that stay fast under pressure — high-traffic Minecraft networks,
@@ -34,6 +36,7 @@ production web platforms, and automation pipelines.
 
 <br/>
 
+<!-- ── STACK ────────────────────────────────────────────── -->
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/Color/hammer_and_wrench_color.svg" width="24" alt="" align="top" /> Stack
 
 <div align="center">
@@ -58,6 +61,7 @@ production web platforms, and automation pipelines.
 
 <br/>
 
+<!-- ── STATS ────────────────────────────────────────────── -->
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/Color/bar_chart_color.svg" width="24" alt="" align="top" /> Statistics
 
 <div align="center">
@@ -78,6 +82,7 @@ production web platforms, and automation pipelines.
 
 <br/>
 
+<!-- ── PHILOSOPHY ───────────────────────────────────────── -->
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/Color/brain_color.svg" width="24" alt="" align="top" /> Philosophy
 
 > **Ship less, polish more.**
@@ -91,6 +96,7 @@ production web platforms, and automation pipelines.
 
 <br/>
 
+<!-- ── FOOTER ───────────────────────────────────────────── -->
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>&nbsp;
