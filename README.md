@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Backend+engineering+%26+scalable+APIs;Minecraft+(Paper+%2F+Folia+%2F+Velocity)+%26+FiveM;Anti-cheat%2C+moderation%2C+performance-critical+systems;Quiet+code%2C+loud+results." alt="Typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Backend+engineering+%26+scalable+APIs;FiveM;Anti-cheat%2C+moderation%2C+performance-critical+systems;Quiet+code%2C+loud+results." alt="Typing banner" />
 
 <br/><br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-## <img src="https://cdn.imgurl.ir/uploads/f0605_about.png" width="24" alt="" align="top" /> About
+## 👤 About
 
 I build systems that stay fast under pressure — high-traffic Minecraft networks,
 production web platforms, and automation pipelines.
@@ -34,7 +34,7 @@ production web platforms, and automation pipelines.
 
 <br/>
 
-## <img src="https://cdn.imgurl.ir/uploads/j02325_stack.png" width="24" alt="" align="top" /> Stack
+## 💻 Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@ production web platforms, and automation pipelines.
 
 <br/>
 
-## <img src="https://cdn.imgurl.ir/uploads/c7240_stats.png" width="24" alt="" align="top" /> Statistics
+## 📊 Statistics
 
 <div align="center">
 
@@ -78,7 +78,7 @@ production web platforms, and automation pipelines.
 
 <br/>
 
-## <img src="https://cdn.imgurl.ir/uploads/x99981_philosophy.png" width="24" alt="" align="top" /> Philosophy
+## 💡 Philosophy
 
 > **Ship less, polish more.**
 
