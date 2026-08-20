@@ -20,14 +20,14 @@ production web platforms, and automation pipelines.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;Web developer since <b>2021</b>, Python since <b>2019</b><br/><br/>
-      <img src="" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;Deep in <b>Minecraft plugin</b> &amp; <b>FiveM</b> developments and ofcourse <b>Web</b> developments<br/><br/>
-      <img src="" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;<b>Anti-cheat, moderation,</b> performance-critical backends
+      <img src="https://www.svgrepo.com/show/450680/bullet-point.svg" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;Web developer since <b>2021</b>, Python since <b>2019</b><br/><br/>
+      <img src="https://www.svgrepo.com/show/450680/bullet-point.svg" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;Deep in <b>Minecraft plugin</b> &amp; <b>FiveM</b> developments and ofcourse <b>Web</b> developments<br/><br/>
+      <img src="https://www.svgrepo.com/show/450680/bullet-point.svg" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;<b>Anti-cheat, moderation,</b> performance-critical backends
     </td>
     <td width="50%" valign="top">
-      <img src="" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;I care about the boring parts, architecture, configs, deployment<br/><br/>
-      <img src="" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;Minimal, <b>UI/UX</b> products should feel as good as they run<br/><br/>
-      <img src="" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;Currently learning <b>C++ / C#</b> and Folia internals
+      <img src="https://www.svgrepo.com/show/450680/bullet-point.svg" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;I care about the boring parts, architecture, configs, deployment<br/><br/>
+      <img src="https://www.svgrepo.com/show/450680/bullet-point.svg" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;Minimal, <b>UI/UX</b> products should feel as good as they run<br/><br/>
+      <img src="https://www.svgrepo.com/show/450680/bullet-point.svg" width="16" alt="https://www.svgrepo.com/show/450680/bullet-point.svg" align="top" /> &nbsp;Currently learning <b>C++ / C#</b> and Folia internals
     </td>
   </tr>
 </table>
