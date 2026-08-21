@@ -219,16 +219,6 @@ Tools and services that remove repetitive work and keep systems running consiste
 
 <br/>
 
-## GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=main-sonny&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-
-</div>
-
-<br/>
-
 ## Currently Learning
 
 <div align="center">
