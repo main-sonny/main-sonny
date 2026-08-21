@@ -133,28 +133,6 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 
 ## Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ Automation
-
-Tools and services that remove repetitive work and keep systems running consistently.
-
-**Focus**
-
-`Python` `Docker` `Linux`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=main-sonny&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&sideNums=E9D5FF&currStreakNum=E9D5FF&dates=6E7681" alt="Contribution streak" />
