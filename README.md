@@ -165,6 +165,7 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 ## Development Principles
 <div align="center">
 
+<br>
   
 | Principle | Approach |
 | :-- | :-- |
@@ -175,12 +176,7 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 | **Maintainability** | Write code that makes sense months after it was written. |
 | **User Experience** | Good software should be fast, intuitive and enjoyable to use. |
 
-<br/>
-
 <sub>Sonny Developments</sub>
 
 </div>
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,50:4C1D95,100:0D1117&section=footer" alt="" />
