@@ -133,34 +133,9 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 
 <br/>
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/main-sonny">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=main-sonny&repo=YOUR_REPOSITORY_1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" alt="Featured project" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/main-sonny">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=main-sonny&repo=YOUR_REPOSITORY_2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" alt="Featured project" />
-</a>
-
-</div>
-
-<br/>
-
 ## GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=main-sonny&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics" />
-
-&nbsp;&nbsp;
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-sonny&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=main-sonny&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&sideNums=E9D5FF&currStreakNum=E9D5FF&dates=6E7681" alt="Contribution streak" />
