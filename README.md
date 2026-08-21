@@ -1,56 +1,70 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:4C1D95,100:7C3AED&text=SONNY&fontColor=E9D5FF&fontSize=64&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Game%20Systems%20%C2%B7%20Automation&descAlignY=56&descSize=18&animation=fadeIn" alt="Sonny" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:4C1D95,100:7C3AED&text=SONNY&fontColor=E9D5FF&fontSize=64&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20FiveM%20%C2%B7%20Minecraft%20%C2%B7%20Web&descAlignY=56&descSize=18&animation=fadeIn" alt="Sonny" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems;FiveM+%C2%B7+Minecraft+%C2%B7+Web;Performance%2C+automation%2C+and+clean+architecture" alt="Typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+systems+that+scale;FiveM+%C2%B7+Minecraft+%C2%B7+Backend+%C2%B7+Web;Performance+%26+clean+architecture;Turning+ideas+into+working+software" alt="Typing banner" />
 
 <br/><br/>
 
 <img src="https://flagcdn.com/h20/ir.png" height="14" alt="Iran" />
 &nbsp; Tehran, Iran
 &nbsp; · &nbsp;
+<a href="https://github.com/main-sonny">
 <img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views" />
+</a>
 
 </div>
 
 <br/>
 
-## About Me
+## About
 
-I'm a software developer focused on building systems that are reliable, fast, and easy to maintain.
+I'm a software developer focused on **game systems, backend development, web applications, and automation**.
 
-My main areas of work are **FiveM**, **Minecraft**, backend development, web applications, and automation.
+Most of my work revolves around building systems that need to be reliable under real usage, whether that's a FiveM server, a Minecraft network, an API, or a web application.
+
+I enjoy working close to the infrastructure as much as the code itself. Architecture, performance, databases, deployment, configuration, and the small details that make a system easier to maintain all matter.
+
+<br/>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Development
-
-• Web development since <b>2021</b><br/>
-• Python since <b>2019</b><br/>
-• Minecraft plugin development<br/>
-• FiveM development<br/>
-• Backend systems and APIs
-
-```
-</td>
+<tr>
 <td width="50%" valign="top">
-```
 
-### Currently
+### What I Build
 
-• Building performance focused game systems<br/>
-• Working with moderation and anti cheat systems<br/>
-• Improving my C++ and C# skills<br/>
-• Exploring Folia internals<br/>
-• Learning more about scalable backend architecture
+🎮 **FiveM systems**
+Resources, gameplay systems, server tooling and integrations
 
-```
+⛏️ **Minecraft systems**
+Plugins, server infrastructure, moderation and performance tooling
+
+⚙️ **Backend services**
+APIs, databases, automation and internal services
+
+🌐 **Web applications**
+Modern interfaces backed by reliable services
+
 </td>
-```
 
-  </tr>
+<td width="50%" valign="top">
+
+### Experience
+
+🌐 Web development since **2021**
+
+🐍 Python since **2019**
+
+☕ Java and Minecraft development
+
+🎮 FiveM development
+
+🛡️ Anti cheat and moderation systems
+
+⚡ Performance focused backend development
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -61,13 +75,13 @@ My main areas of work are **FiveM**, **Minecraft**, backend development, web app
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,lua&theme=dark" alt="Languages" />
 
 <br/><br/>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,postgres,sqlite&theme=dark" alt="Backend and databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,postgres,sqlite,redis&theme=dark" alt="Backend and databases" />
 
 <br/><br/>
 
@@ -85,52 +99,113 @@ My main areas of work are **FiveM**, **Minecraft**, backend development, web app
 
 <br/>
 
-## What I Work On
+## Areas of Focus
 
 <table>
-  <tr>
-    <td width="33%" align="center">
-
-### 🎮 Game Systems
-
-FiveM resources, Minecraft plugins, server infrastructure, gameplay systems, and performance optimization.
-
-```
-</td>
+<tr>
 <td width="33%" align="center">
-```
 
-### ⚙️ Backend
+### 🎮 Game Development
 
-APIs, databases, automation, moderation systems, and services designed to handle real workloads.
+FiveM resources, Minecraft plugins, server systems, gameplay mechanics and integrations.
 
-```
 </td>
+
 <td width="33%" align="center">
-```
 
-### 🌐 Web
+### ⚡ Performance
 
-Modern web applications with a focus on clean interfaces, good UX, and maintainable architecture.
+Efficient queries, optimized server logic, caching, asynchronous processing and scalable architecture.
 
-```
 </td>
-```
 
-  </tr>
+<td width="33%" align="center">
+
+### 🛠️ Infrastructure
+
+Deployment, configuration, automation, databases, monitoring and the systems behind the application.
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## GitHub Activity
+## Featured Projects
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=main-sonny&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub statistics" />
+<table>
+<tr>
 
- 
+<td width="50%" valign="top">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-sonny&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
+### 🎮 FiveM
+
+Game systems and resources built around performance, flexibility and clean server architecture.
+
+**Focus**
+
+`Lua` `JavaScript` `Node.js`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⛏️ Minecraft
+
+Plugins and server systems focused on scalability, moderation, gameplay and performance.
+
+**Focus**
+
+`Java` `Maven` `SQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Web
+
+Web applications and APIs with modern frontends and maintainable backend architecture.
+
+**Focus**
+
+`TypeScript` `React` `Node.js`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Automation
+
+Tools and services that remove repetitive work and keep systems running consistently.
+
+**Focus**
+
+`Python` `Docker` `Linux`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=main-sonny&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics" />
+
+  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-sonny&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
@@ -144,28 +219,69 @@ Modern web applications with a focus on clean interfaces, good UX, and maintaina
 
 <br/>
 
-## Principles
-
-|                 |                                                                        |
-| --------------- | ---------------------------------------------------------------------- |
-| **Performance** | Keep systems efficient, especially where every tick and query matters. |
-| **Simplicity**  | Prefer code that is easy to understand and maintain.                   |
-| **Modularity**  | Build systems that can grow without needing to be rewritten.           |
-| **Reliability** | Good software should keep working when things get busy.                |
-| **UX**          | A good product should feel as good as it performs.                     |
-
-<br/>
+## GitHub Achievements
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=main-sonny&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+
+</div>
+
+<br/>
+
+## Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs&theme=dark" alt="Currently learning C++ and C#" />
 
 <br/><br/>
 
-<sub>Building things that work. Then making them better.</sub>
+**C++** · **C#** · **Folia internals** · **Advanced server architecture**
 
 </div>
+
+<br/>
+
+## Development Principles
+
+| Principle           | Approach                                                                       |
+| :------------------ | :----------------------------------------------------------------------------- |
+| **Performance**     | Keep server logic, queries and resource usage efficient.                       |
+| **Simplicity**      | Prefer straightforward code over unnecessary abstraction.                      |
+| **Modularity**      | Build components that can be changed without rewriting everything around them. |
+| **Reliability**     | Design systems to behave predictably under real usage.                         |
+| **Maintainability** | Write code that makes sense months after it was written.                       |
+| **User Experience** | Good software should be fast, intuitive and enjoyable to use.                  |
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+</a>
+
+ 
+
+<a href="https://telegram.org/">
+<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
+</a>
+
+ 
+
+<a href="mailto:you@example.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+
+<br/><br/>
+
+<sub>Building, breaking, learning, improving.</sub>
+
+</div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,50:4C1D95,100:0D1117&section=footer" alt="" />
