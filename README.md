@@ -172,32 +172,9 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 
 <br/>
 
-## Let's Connect
-
-<div align="center">
-
-<a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
-</a>
-
- 
-
-<a href="https://telegram.org/">
-<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
-</a>
-
- 
-
-<a href="mailto:you@example.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
-
-<br/><br/>
 
 <sub>Building, breaking, learning, improving.</sub>
 
 </div>
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,50:4C1D95,100:0D1117&section=footer" alt="" />
