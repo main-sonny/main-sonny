@@ -163,7 +163,8 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 <br/>
 
 ## Development Principles
-
+<div align="center">
+  
 | Principle | Approach |
 | :-- | :-- |
 | **Performance** | Keep server logic, queries and resource usage efficient. |
@@ -172,20 +173,6 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 | **Reliability** | Design systems to behave predictably under real usage. |
 | **Maintainability** | Write code that makes sense months after it was written. |
 | **User Experience** | Good software should be fast, intuitive and enjoyable to use. |
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/main-sonny">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-</a>
-
-&nbsp;
-
-<a href="mailto:you@example.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
 
 <br/><br/>
 
