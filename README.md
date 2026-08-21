@@ -140,46 +140,6 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 
 <td width="50%" valign="top">
 
-### 🎮 FiveM
-
-Game systems and resources built around performance, flexibility and clean server architecture.
-
-**Focus**
-
-`Lua` `JavaScript` `Node.js`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⛏️ Minecraft
-
-Plugins and server systems focused on scalability, moderation, gameplay and performance.
-
-**Focus**
-
-`Java` `Maven` `SQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Web
-
-Web applications and APIs with modern frontends and maintainable backend architecture.
-
-**Focus**
-
-`TypeScript` `React` `Node.js`
-
-</td>
-
-<td width="50%" valign="top">
-
 ### ⚙️ Automation
 
 Tools and services that remove repetitive work and keep systems running consistently.
@@ -194,18 +154,6 @@ Tools and services that remove repetitive work and keep systems running consiste
 </table>
 
 </div>
-
-<br/>
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=main-sonny&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics" />
-
-  
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-sonny&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
