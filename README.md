@@ -9,9 +9,7 @@
 <img src="https://flagcdn.com/h20/ir.png" height="14" alt="Iran" />
 &nbsp; Tehran, Iran
 &nbsp; · &nbsp;
-<a href="https://github.com/main-sonny">
 <img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views" />
-</a>
 
 </div>
 
@@ -34,16 +32,20 @@ I enjoy working close to the infrastructure as much as the code itself. Architec
 ### What I Build
 
 🎮 **FiveM systems**
-Resources, gameplay systems, server tooling and integrations
+
+Resources, gameplay systems, server tooling and integrations.
 
 ⛏️ **Minecraft systems**
-Plugins, server infrastructure, moderation and performance tooling
+
+Plugins, server infrastructure, moderation and performance tooling.
 
 ⚙️ **Backend services**
-APIs, databases, automation and internal services
+
+APIs, databases, automation and internal services.
 
 🌐 **Web applications**
-Modern interfaces backed by reliable services
+
+Modern interfaces backed by reliable services.
 
 </td>
 
@@ -133,6 +135,32 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 
 ## Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/main-sonny">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=main-sonny&repo=YOUR_REPOSITORY_1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" alt="Featured project" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/main-sonny">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=main-sonny&repo=YOUR_REPOSITORY_2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" alt="Featured project" />
+</a>
+
+</div>
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=main-sonny&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics" />
+
+&nbsp;&nbsp;
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-sonny&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=main-sonny&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&sideNums=E9D5FF&currStreakNum=E9D5FF&dates=6E7681" alt="Contribution streak" />
@@ -161,20 +189,35 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 
 ## Development Principles
 
-| Principle           | Approach                                                                       |
-| :------------------ | :----------------------------------------------------------------------------- |
-| **Performance**     | Keep server logic, queries and resource usage efficient.                       |
-| **Simplicity**      | Prefer straightforward code over unnecessary abstraction.                      |
-| **Modularity**      | Build components that can be changed without rewriting everything around them. |
-| **Reliability**     | Design systems to behave predictably under real usage.                         |
-| **Maintainability** | Write code that makes sense months after it was written.                       |
-| **User Experience** | Good software should be fast, intuitive and enjoyable to use.                  |
+| Principle | Approach |
+| :-- | :-- |
+| **Performance** | Keep server logic, queries and resource usage efficient. |
+| **Simplicity** | Prefer straightforward code over unnecessary abstraction. |
+| **Modularity** | Build components that can be changed without rewriting everything around them. |
+| **Reliability** | Design systems to behave predictably under real usage. |
+| **Maintainability** | Write code that makes sense months after it was written. |
+| **User Experience** | Good software should be fast, intuitive and enjoyable to use. |
 
 <br/>
 
+<div align="center">
+
+<a href="https://github.com/main-sonny">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+
+&nbsp;
+
+<a href="mailto:you@example.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+
+<br/><br/>
 
 <sub>Sonny Developments</sub>
 
 </div>
 
 <br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,50:4C1D95,100:0D1117&section=footer" alt="" />
