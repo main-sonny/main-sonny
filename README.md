@@ -173,7 +173,7 @@ Deployment, configuration, automation, databases, monitoring and the systems beh
 <br/>
 
 
-<sub>Building, breaking, learning, improving.</sub>
+<sub>Sonny Developments</sub>
 
 </div>
 
