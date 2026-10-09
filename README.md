@@ -4,179 +4,141 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+systems+that+scale;FiveM+%C2%B7+Minecraft+%C2%B7+Backend+%C2%B7+Web;Performance+%26+clean+architecture;Turning+ideas+into+working+software" alt="Typing banner" />
 
-<br/><br/>
-
-<img src="https://flagcdn.com/h20/ir.png" height="14" alt="Iran" />
-&nbsp; Tehran, Iran
-&nbsp; · &nbsp;
-<img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views" />
+<p align="center">
+  <img src="https://flagcdn.com/h20/ir.png" height="14" alt="Iran" /> Tehran, Iran &nbsp;&bull;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views" />
+</p>
 
 </div>
 
-<br/>
+---
 
-## About
+## 🚀 About Me
 
 I'm a software developer focused on **game systems, backend development, web applications, and automation**.
 
-Most of my work revolves around building systems that need to be reliable under real usage, whether that's a FiveM server, a Minecraft network, an API, or a web application.
+Most of my work revolves around building systems that need to be reliable under real usage, whether that's a high-concurrency FiveM server, a complex Minecraft network, an API, or a web application. I enjoy working close to the infrastructure as much as the code itself—architecture, performance, databases, deployment, configuration, and the small details that make a system easier to maintain all matter.
 
-I enjoy working close to the infrastructure as much as the code itself. Architecture, performance, databases, deployment, configuration, and the small details that make a system easier to maintain all matter.
+---
 
-<br/>
+## 🛠️ What I Build & Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### What I Build
-
-🎮 **FiveM systems**
-
-Resources, gameplay systems, server tooling and integrations.
-
-⛏️ **Minecraft systems**
-
-Plugins, server infrastructure, moderation and performance tooling.
-
-⚙️ **Backend services**
-
-APIs, databases, automation and internal services.
-
-🌐 **Web applications**
-
-Modern interfaces backed by reliable services.
+### 🎯 What I Build
+* **🎮 FiveM Systems:** Resources, custom gameplay systems, server tooling, and integrations.
+* **⛏️ Minecraft Systems:** Plugins, server infrastructure, optimization, and performance tooling.
+* **⚙️ Backend Services:** Robust APIs, databases, automation scripts, and internal tools.
+* **🌐 Web Applications:** Modern, responsive interfaces backed by reliable backend services.
 
 </td>
-
 <td width="50%" valign="top">
 
-### Experience
-
-🌐 Web development since **2021**
-
-🐍 Python since **2019**
-
-☕ Java and Minecraft development
-
-🎮 FiveM development
-
-🛡️ Anti cheat and moderation systems
-
-⚡ Performance focused backend development
+### 📈 Experience & Background
+* **🌐 Web Development:** Since 2021
+* **🐍 Python Development:** Since 2019
+* **☕ Java & Minecraft:** Custom plugin ecosystems
+* **🎮 FiveM Architecture:** Advanced server-side engineering
+* **🛡️ Security:** Anti-cheat & advanced moderation systems
+* **⚡ Backend Performance:** Low-latency, optimized services
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,lua&theme=dark" alt="Languages" />
 
-<br/><br/>
-
 ### Backend & Databases
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,postgres,sqlite,redis&theme=dark" alt="Backend and databases" />
 
-<br/><br/>
-
 ### Frontend
-
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,alpinejs&theme=dark" alt="Frontend" />
 
-<br/><br/>
-
 ### Tools & Infrastructure
-
 <img src="https://skillicons.dev/icons?i=maven,idea,git,linux,docker,nginx&theme=dark" alt="Tools and infrastructure" />
 
 </div>
 
-<br/>
+---
 
-## Areas of Focus
+## 💡 Areas of Focus
 
 <table>
 <tr>
 <td width="33%" align="center">
-
-### 🎮 Game Development
-
-FiveM resources, Minecraft plugins, server systems, gameplay mechanics and integrations.
-
+  <b>🎮 Game Development</b><br>
+  <sub>FiveM resources, Minecraft plugins, server systems, and mechanics.</sub>
 </td>
-
 <td width="33%" align="center">
-
-### ⚡ Performance
-
-Efficient queries, optimized server logic, caching, asynchronous processing and scalable architecture.
-
+  <b>⚡ Performance</b><br>
+  <sub>Efficient queries, optimized code, caching, and async processing.</sub>
 </td>
-
 <td width="33%" align="center">
-
-### 🛠️ Infrastructure
-
-Deployment, configuration, automation, databases, monitoring and the systems behind the application.
-
+  <b>🛠️ Infrastructure</b><br>
+  <sub>Deployment, configuration, automation, databases, and monitoring.</sub>
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## GitHub Activity
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=main-sonny&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&sideNums=E9D5FF&currStreakNum=E9D5FF&dates=6E7681" alt="Contribution streak" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=main-sonny&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-sonny&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
-<br/><br/>
+<p>
+  <img src="https://streak-stats.demolab.com?user=main-sonny&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&sideNums=E9D5FF&currStreakNum=E9D5FF&dates=6E7681" alt="Contribution streak" />
+</p>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=main-sonny&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=main-sonny&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%2520Activity" alt="Contribution activity" />
 
 </div>
 
-<br/>
+---
 
-## Currently Learning
+## 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs&theme=dark" alt="Currently learning C++ and C#" />
+<img src="https://skillicons.dev/icons?i=cpp,cs&theme=dark" alt="C++ and C#" />
 
-<br/><br/>
+<br><br>
 
-**C++** · **C#** · **Folia internals** · **Advanced server architecture**
+**C++** &bull; **C#** &bull; **Folia Internals** &bull; **Advanced Server Architecture**
 
 </div>
 
-<br/>
+---
 
-## Development Principles
-<div align="center">
+## 📐 Development Principles
+
+| Principle | Approach |
+| :--- | :--- |
+| **Performance** | Keep server logic, database queries, and resource usage ruthlessly efficient. |
+| **Simplicity** | Prefer straightforward, readable code over unnecessary abstractions. |
+| **Modularity** | Build isolated components that can change without breaking everything else. |
+| **Reliability** | Design systems to behave predictably under heavy load and real-world usage. |
+| **Maintainability** | Write code that is easy to revisit and understand months down the line. |
+| **User Experience** | Software should feel fast, responsive, and intuitive. |
 
 <br>
-  
-| Principle | Approach |
-| :-- | :-- |
-| **Performance** | Keep server logic, queries and resource usage efficient. |
-| **Simplicity** | Prefer straightforward code over unnecessary abstraction. |
-| **Modularity** | Build components that can be changed without rewriting everything around them. |
-| **Reliability** | Design systems to behave predictably under real usage. |
-| **Maintainability** | Write code that makes sense months after it was written. |
-| **User Experience** | Good software should be fast, intuitive and enjoyable to use. |
 
-<sub>Sonny Developments</sub>
-
+<div align="center">
+  <sub><b>Sonny Developments</b></sub>
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7C3AED,50:4C1D95,100:0D1117&section=footer" alt="" />
