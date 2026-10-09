@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+systems+that+scale;FiveM+%C2%B7+Minecraft+%C2%B7+Backend+%C2%B7+Web;Performance+%26+clean+architecture;Turning+ideas+into+working+software" alt="Typing banner" />
 
 <p align="center">
-  <img src="https://flagcdn.com/h20/ir.png" height="14" alt="Iran" /> Tehran, Iran &nbsp;&bull;&nbsp;
+   Tehran, Iran &nbsp;&bull;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -13,36 +13,36 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a software developer focused on **game systems, backend development, web applications, and automation**.
+I am a software developer focused on backend development, web applications, automation, and game server systems. 
 
-Most of my work revolves around building systems that need to be reliable under real usage, whether that's a high-concurrency FiveM server, a complex Minecraft network, an API, or a web application. I enjoy working close to the infrastructure as much as the code itself—architecture, performance, databases, deployment, configuration, and the small details that make a system easier to maintain all matter.
+Most of my work revolves around building systems that remain reliable under heavy usage, whether that involves high-concurrency server frameworks, APIs, or modern web applications. I enjoy working close to the infrastructure layer, focusing on architecture, database optimization, deployment pipelines, and clean code maintainability.
 
 ---
 
-## 🛠️ What I Build & Experience
+## What I Build & Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 What I Build
-* **🎮 FiveM Systems:** Resources, custom gameplay systems, server tooling, and integrations.
-* **⛏️ Minecraft Systems:** Plugins, server infrastructure, optimization, and performance tooling.
-* **⚙️ Backend Services:** Robust APIs, databases, automation scripts, and internal tools.
-* **🌐 Web Applications:** Modern, responsive interfaces backed by reliable backend services.
+### What I Build
+* **FiveM Systems:** Custom gameplay mechanics, server-side resources, tooling, and integrations.
+* **Minecraft Systems:** Plugin architecture, server infrastructure, performance optimization, and tooling.
+* **Backend Services:** Robust APIs, database management, automation scripts, and internal utilities.
+* **Web Applications:** Modern, responsive interfaces backed by reliable backend services.
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Experience & Background
-* **🌐 Web Development:** Since 2021
-* **🐍 Python Development:** Since 2019
-* **☕ Java & Minecraft:** Custom plugin ecosystems
-* **🎮 FiveM Architecture:** Advanced server-side engineering
-* **🛡️ Security:** Anti-cheat & advanced moderation systems
-* **⚡ Backend Performance:** Low-latency, optimized services
+### Experience & Background
+* **Web Development:** Since 2021
+* **Python Development:** Since 2019
+* **Java & Minecraft:** Custom plugin ecosystems
+* **FiveM Architecture:** Advanced server-side engineering
+* **Security:** Anti-cheat and moderation systems
+* **Backend Performance:** Low-latency service optimization
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ Most of my work revolves around building systems that need to be reliable under 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -70,28 +70,28 @@ Most of my work revolves around building systems that need to be reliable under 
 
 ---
 
-## 💡 Areas of Focus
+## Areas of Focus
 
 <table>
 <tr>
 <td width="33%" align="center">
-  <b>🎮 Game Development</b><br>
-  <sub>FiveM resources, Minecraft plugins, server systems, and mechanics.</sub>
+  <b>Game Development</b><br>
+  <sub>FiveM resources, Minecraft plugins, server architecture, and mechanics.</sub>
 </td>
 <td width="33%" align="center">
-  <b>⚡ Performance</b><br>
-  <sub>Efficient queries, optimized code, caching, and async processing.</sub>
+  <b>Performance</b><br>
+  <sub>Efficient queries, optimized code execution, caching, and async processing.</sub>
 </td>
 <td width="33%" align="center">
-  <b>🛠️ Infrastructure</b><br>
-  <sub>Deployment, configuration, automation, databases, and monitoring.</sub>
+  <b>Infrastructure</b><br>
+  <sub>Deployment, configuration, automation, databases, and system monitoring.</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Most of my work revolves around building systems that need to be reliable under 
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -124,7 +124,7 @@ Most of my work revolves around building systems that need to be reliable under 
 
 ---
 
-## 📐 Development Principles
+## Development Principles
 
 | Principle | Approach |
 | :--- | :--- |
