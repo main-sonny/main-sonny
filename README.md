@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:850000,50:850000,100:850000&text=Sonny&fontColor=FFF&fontSize=64&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20FiveM/VMP%20%20%C2%B7%20Web Dev&descAlignY=56&descSize=18&animation=fadeIn" alt="Sonny" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:850000,50:850000,100:850000&text=Sonny&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20FiveM%20%C2%B7%20VMP%20%C2%B7%20Backend%20%C2%B7%20Web&descAlignY=56&descSize=18&animation=fadeIn" alt="Sonny" />
 
 ---
 
