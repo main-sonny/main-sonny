@@ -83,7 +83,7 @@ Most of my work revolves around building systems that remain reliable under heav
 <div align="center">
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=main-sonny&hide_border=true&background=1A0004&ring=850000&fire=FF4D4D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9B9B9B" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=main-sonny&hide_border=true&background=000&ring=850000&fire=FF4D4D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9B9B9B" alt="Contribution streak" />
 </p>
 
 </div>
@@ -117,6 +117,13 @@ Most of my work revolves around building systems that remain reliable under heav
 
 <br>
 
+<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=850000&label=Profile+views" alt="Profile views" />
+</p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:850000,50:850000,100:850000&section=footer" alt="" />
 <div align="center">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=main-sonny&style=flat-square&color=850000&label=Profile+views" alt="Profile views" />
